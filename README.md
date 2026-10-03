@@ -46,6 +46,7 @@ Er kann deine Wunsch-Programme direkt über Sprach- oder Texterteilung starten:
    Uhrzeit: Frage einfach "Wie spät ist es?" und er nennt dir die exakte Uhrzeit.
    Timer: Stelle Timer (z. B. für Pausen oder Gaming), und JARVIS erinnert dich akustisch, wenn die Zeit abgelaufen ist.
 
-    Uhrzeit: Frage einfach "Wie spät ist es?" und er nennt dir die exakte Uhrzeit.
 
-    Timer: Stelle Timer (z. B. für Pausen oder Gaming), und JARVIS erinnert dich akustisch, wenn die Zeit abgelaufen ist.
+7. Bilder
+
+   <img width="1311" height="907" alt="Jarvis" src="https://github.com/user-attachments/assets/1c8dcc41-da0d-4c3e-b6ef-908301e7ace1" />
